@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kuizku</string>
+
+    <string-array name="daftar_akun">
+        <item>Siswa</item>
+        <item>Guru</item>
+    </string-array>
+</resources>
