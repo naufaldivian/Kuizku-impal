@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "608555298342",
+    "firebase_url": "https://impal-722cd.firebaseio.com",
+    "project_id": "impal-722cd",
+    "storage_bucket": "impal-722cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608555298342:android:7b70689aa47bf2ea",
+        "android_client_info": {
+          "package_name": "com.example.lenovo.kuizku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608555298342-re4648voseef8fm5dnn4m5dagcsghksh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lenovo.kuizku",
+            "certificate_hash": "a9d0a66b9d92223c344cb4d7a64b4a060a01eca2"
+          }
+        },
+        {
+          "client_id": "608555298342-o0h3falb2juspuqc0gmkvb7m5n0s7022.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt4U4bo_FX86A06kljxvSP0Urv_Vf7uus"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608555298342-o0h3falb2juspuqc0gmkvb7m5n0s7022.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
